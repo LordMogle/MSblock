@@ -33,11 +33,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fg.download.windowsupdate.com.c.footprint.net
 0.0.0.0 emdl.ws.microsoft.com 
 0.0.0.0 cds.d2s7q6s2.hwcdn.net
-0.0.0.0 *wac.phicdn.net
-0.0.0.0 *wac.edgecastcdn.net
-0.0.0.0 *.windowsupdate.com
-0.0.0.0 *.prod.do.dsp.mp.microsoft.com
-0.0.0.0 *.dl.delivery.mp.microsoft.com
 0.0.0.0 www.bing.com/threshold/xls.aspx
 0.0.0.0 e13678.dspb.akamaiedge.net
 0.0.0.0 e3673.g.akamaiedge.net
@@ -117,13 +112,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 vip5.afdorogin-prod-hk02.afdogw.com
 0.0.0.0 vip5.afdorigin-prod-ch02.afdogw.com
 0.0.0.0 prod.nexusrules.live.com.akadns.net
-0.0.0.0 52.109.12.20
 0.0.0.0 ocos-office365-s2s.msedge.net
-0.0.0.0 *.c-msedge.net ### WILDCARD DOES NOT WORK IN HOSTS FILE, USE FIREWALL ####
 0.0.0.0 c-0001.c-msedge.net
-0.0.0.0 *.e-msedge.net
-0.0.0.0 *.s-msedge.net
-0.0.0.0 *.a-msedge.net
 0.0.0.0 outlook.office365.com
 0.0.0.0 gateway.skyprod.akadns.net
 0.0.0.0 tile-service.weather.microsoft.com
@@ -152,8 +142,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 pti.store.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
-0.0.0.0 cy2.*.md.mp.microsoft.com.*.
-0.0.0.0 *.tlu.dl.delivery.mp.microsoft.com.c.footprint.net
 0.0.0.0 www.msftconnecttest.com/connecttest.txt
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
@@ -163,7 +151,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 ris.api.iris.microsoft.com.akadns.net
 0.0.0.0 query.prod.cms.rt.microsoft.com
-0.0.0.0 *.search.msn.com
 0.0.0.0 a122.dscd.akamai.net
 0.0.0.0 a1621.g.akamai.net
 0.0.0.0 standard.t-0001.t-msedge.net:443
