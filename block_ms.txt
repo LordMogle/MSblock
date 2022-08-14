@@ -37,6 +37,12 @@
 ########################
 #
 # START - ALLOWING WINDOWS UPDATES
+0.0.0.0 download.microsoft.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 ntservicepack.microsoft.com
+0.0.0.0 test.stats.update.microsoft.com
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 wustat.windows.com
 0.0.0.0 fe3.delivery.mp.microsoft.com
 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 0.0.0.0 sls.update.microsoft.com
@@ -55,6 +61,11 @@
 0.0.0.0 *.dl.delivery.mp.microsoft.com  ### *.WILDCARDS DO NOT WORK IN HOSTS FILE, USE FIREWALL TO BLOCK ####
 0.0.0.0 www.bing.com/threshold/xls.aspx ### Root Certificates Update to check the list of trusted authorities on Windows Update to see if an update is available. ###
 # END - ALLOWING WINDOWS UPDATES
+
+
+########################
+# Block windows update
+########################
 #
 # START - ALLOWING MICROSOFT MALWARE PROTECTION
 0.0.0.0 e13678.dspb.akamaiedge.net
