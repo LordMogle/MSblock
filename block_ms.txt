@@ -186,10 +186,6 @@
 0.0.0.0 cdn.onenote.net/livetile/?Language=en-US
 # END   - One Note Live Tile
 #
-# START - Facebook
-star-mini.c10r.facebook.com
-# END   - Facebook
-#
 # START - Twitter
 0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 oem.twimg.com/windows/tile.xml
