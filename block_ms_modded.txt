@@ -1404,4 +1404,6 @@
 0.0.0.0  https://www.microsoft.com
 0.0.0.0  https://go.microsoft.com
 0.0.0.0  https://login.live.com
+0.0.0.0  https://www.microsoft.com/en-us/
+0.0.0.0  e13678.dscb.akamaiedge.net
 #=====================================
