@@ -1404,4 +1404,7 @@
 0.0.0.0  https://www.microsoft.com
 0.0.0.0  https://go.microsoft.com
 0.0.0.0  https://login.live.com
+0.0.0.0  https://www.microsoft.com/en-us/download
+0.0.0.0  https://www.microsoft.com/en-us/
+0.0.0.0  https://support.microsoft.com/en-US
 #=====================================
