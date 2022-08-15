@@ -1400,4 +1400,8 @@
 0.0.0.0  win10.ipv4.microsoft.com
 0.0.0.0  win8.ipv6.microsoft.com
 0.0.0.0  win8.ipv4.microsoft.com
+0.0.0.0  www.microsoft.com
+0.0.0.0  https://www.microsoft.com
+0.0.0.0  https://go.microsoft.com
+0.0.0.0  https://login.live.com
 #=====================================
