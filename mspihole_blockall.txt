@@ -137,7 +137,7 @@
 0.0.0.0 query.prod.cms.rt.microsoft.com
 0.0.0.0 a122.dscd.akamai.net
 0.0.0.0 a1621.g.akamai.net
-0.0.0.0 standard.t-0001.t-msedge.net:443
+0.0.0.0 standard.t-0001.t-msedge.net
 0.0.0.0 118-163-160-187-HINET-IP.hinet.net
 0.0.0.0	a-0001.a-msedge.net
 0.0.0.0	a-0002.a-msedge.net
@@ -792,7 +792,6 @@
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.appex.bing.net:443
 0.0.0.0 telemetry.appex.search.prod.ms.akadns.net
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
